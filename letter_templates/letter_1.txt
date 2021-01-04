@@ -1,0 +1,10 @@
+Hi [NAME],
+
+here are some chinese newspapers headlines in Mandarin, Pinyin, and English.
+
+[CONT]
+
+Thank you for using us, and keep up the good work.
+
+Have a nice day.
+Mandarin Mews Translated

@@ -1,0 +1,9 @@
+Hello [NAME],
+
+we collected today's chinese headlines, and we wish you good Mandarin practice.
+
+[CONT]
+
+Thank you for using us, and have a nice day
+
+Mandarin Mews Translated
